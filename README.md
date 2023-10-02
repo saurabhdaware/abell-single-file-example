@@ -1,9 +1,10 @@
-# Single File Setup of Abell
+<h1 align="center">Abell Single File Example</h1>
 
-Abell attempts to simplify the learning curve by keeping things closer to vanilla HTML. Which means you can run an Abell project with just 1 file.
+<p align="center"><a href="https://stackblitz.com/~/github.com/saurabhdaware/abell-single-file-example"><img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" / alt="Open in Stackblitz" /></b></a></p>
 
-[Open in Stackblitz](https://stackblitz.com/~/github.com/saurabhdaware/abell-single-file-example)
+<p align="center">Abell attempts to simplify the learning curve by keeping things closer to vanilla HTML. Which means you can run an Abell project with just 1 file.</p>
 
+## Usage
 
 ```sh
 # Install Dependencies
