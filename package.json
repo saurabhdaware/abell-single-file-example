@@ -1,4 +1,5 @@
 {
+  "name": "abell-single-file-example",
   "type": "module",
   "scripts": {
     "dev": "abell dev",
